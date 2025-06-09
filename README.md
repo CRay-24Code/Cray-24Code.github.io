@@ -1,2 +1,2 @@
 # Cray-24Code.github.io
-This is my personal website on github.
+This is my personal website hosted on github.

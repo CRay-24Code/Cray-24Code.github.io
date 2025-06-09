@@ -6,4 +6,4 @@
 Beyond academics, Chante has cultivated practical experience and leadership through impactful roles and affiliations. As a Lead Navigator at the Mississippi Center for Justice, she honed her observational and documentation skills, contributing to justice-focused initiatives. Her role as a Resident Assistant at the Arkansas Summer Research Institute further developed her technical abilities in data analytics and Python programming while fostering teamwork and presentation skills through research projects. As an active member and leader in organizations such as Phi Theta Kappa Honor Society, Women in Science and Technology (Treasurer), and the Mathematics, Computer, and Information Science Club (Treasurer), Chante has demonstrated a commitment to community engagement and leadership. Her blend of technical proficiency, professional experience, and leadership makes her a valuable asset to any forward-thinking organization.
 </p>
 
-<img src="ChanteRay_HeadShot.jpg" width="150px">
+<img src="ChanteRay_Headshot.jpg" width="150px">

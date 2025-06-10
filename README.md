@@ -26,10 +26,10 @@ Her unique blend of technical proficiency, professional experience, and leadersh
 
 ## 🎓 Education
 
-- **Bachelor of Science in Computer Science, Minor in Business Administration**
-- -Mississippi Valley State University, Expected Graduation: May 2026
-- **Associate of Arts**
-- Mississippi Delta Community College
+- **Mississippi Valley State University (MVSU), Expected Graduation: May 2026**
+- Bachelor of Science in Computer Science, Minor in Business Administration
+- **Mississippi Delta Community College (MDCC)**
+- Associate of Arts
 - **Recognitinos**: Dean's List, Scholar (multiple adademic years)
 
 ## ☀️ Affiliations
@@ -37,4 +37,6 @@ Her unique blend of technical proficiency, professional experience, and leadersh
 - **Phi Theta Kappa Honor Society**
 - -Active member, demonstrating commitment to academic exellence.
 - **Women in Sience and Technology**
-- 
+- Treasurer, showcasing leadership in promoting women in STEM.
+- **Mathematics, Computer, and Information Science Club**
+- Treasurer, contributing to community engagement and leadership in tech-related initiatives.

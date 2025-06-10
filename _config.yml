@@ -1,4 +1,4 @@
 title: Chante Ray's Website
 description: This is my personal website using github.
 theme: jekyll-theme-cayman
-logo: /assets/img/logo_one.png
+logo: "logo_one.png"

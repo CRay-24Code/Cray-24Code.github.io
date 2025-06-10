@@ -32,6 +32,20 @@ Her unique blend of technical proficiency, professional experience, and leadersh
 - Associate of Arts
 - **Recognitinos**: Dean's List, Scholar (multiple adademic years)
 
+## 📈 Skills
+- **Programming Languages**: C++, Python, Java, MySQL
+- **Coursework**: Computer Programming 1 & 2, Intro to Cybersecurity, Java Programming, Principles of Programming Language, Computer Architecture, Database Management, Software Engineering, Data Structures
+- **Tools**: Microsoft Office (Word, Excel, PowerPoint, etc.)
+- **Soft Skills**: Strong communication, active listening, teamwork, presentation skills
+
+## 💻 Experiences
+- **Lead Navigator, Mississippi Center for Justice**
+- Honed observational and documentation skills.
+- Contributed to justice-focused initiatives with meaningful impact.
+- **Resident Assistant, Arkansas Summer Research Institute**
+- Developed technical abilities in data analytics and Python programming.
+- Strengthened teamwork and presentation skills through collaborative research projects.
+
 ## ☀️ Affiliations
 
 - **Phi Theta Kappa Honor Society**
@@ -40,3 +54,5 @@ Her unique blend of technical proficiency, professional experience, and leadersh
 - Treasurer, showcasing leadership in promoting women in STEM.
 - **Mathematics, Computer, and Information Science Club**
 - Treasurer, contributing to community engagement and leadership in tech-related initiatives.
+
+
